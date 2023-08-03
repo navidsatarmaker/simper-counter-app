@@ -1,4 +1,4 @@
-# simper-counter-app
+# [Simple Counter App] (https://ornate-gaufre-38be9e.netlify.app/)
 
 My First Ever Javascript App that.. 
 - increment number by clicking on "+" button.
